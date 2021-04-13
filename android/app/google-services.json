@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553996977866",
+    "project_id": "twinkle-twinkle-e5d18",
+    "storage_bucket": "twinkle-twinkle-e5d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553996977866:android:0e5a72807f33539b92d633",
+        "android_client_info": {
+          "package_name": "com.farhan.twinkle_twinkle_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553996977866-rkof28a3kqk41cdfd92mthqlu65c6gge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farhan.twinkle_twinkle_flutter",
+            "certificate_hash": "364041e64bccd394f38d61b0ef29edc53235f67c"
+          }
+        },
+        {
+          "client_id": "553996977866-cnqg64mvqpk4tnpd5tidlc41jqk58or2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIOzWRKx-hatNNMQfEfACLRXE6RFlhQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553996977866-cnqg64mvqpk4tnpd5tidlc41jqk58or2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
